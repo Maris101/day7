@@ -1,0 +1,12 @@
+
+table, th, td {
+  border: 1px solid black;
+}
+
+#table1 {background-color: chartreuse;}
+
+#table2 {background-color: firebrick;}
+
+#header1 {color: rgb(133, 102, 206);}
+
+#header1 {font-weight: bold;}
